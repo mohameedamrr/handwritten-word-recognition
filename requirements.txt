@@ -1,0 +1,8 @@
+tk
+pillow
+opencv-python
+numpy
+pandas
+spellchecker
+tensorflow
+keras
